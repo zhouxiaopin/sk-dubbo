@@ -28,8 +28,9 @@
 
     <!-- 设置我们项目的一些版本属性 -->
     <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <dubbo.version>2.5.9</dubbo.version>
         <zkclient.version>0.11</zkclient.version>
         <lombok.version>1.18.6</lombok.version>
